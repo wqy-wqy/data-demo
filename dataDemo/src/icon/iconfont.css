@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "iconfont";
+    /* Project id 3496738 */
+    src: url('./iconfont.woff2?t=1656834687363') format('woff2'), url('./iconfont.woff?t=1656834687363') format('woff'), url('./iconfont.ttf?t=1656834687363') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dot:before {
+    content: "\e82f";
+    font-size: 18px;
+    margin-right: -5px;
+    margin-top: 5px;
+    vertical-align: -20%
+}
+
+.icon-cup1:before {
+    content: "\e651";
+    color: rgb(255, 21, 0);
+    font-size: 20px;
+}
+
+.icon-cup2:before {
+    content: "\e651";
+    color: rgb(255, 247, 0);
+    font-size: 20px;
+}
+
+.icon-cup3:before {
+    content: "\e651";
+    color: rgb(0, 238, 255);
+    font-size: 20px;
+}
+
+.icon-feiji:before {
+    content: "\e606";
+    font-size: 20px;
+    vertical-align: -20%
+}
+
+.icon-shangchang:before {
+    content: "\e609";
+    font-size: 20px;
+    vertical-align: -20%
+}
+
+.icon-huoche:before {
+    content: "\e607";
+    font-size: 20px;
+    vertical-align: -20%
+}
+
+.icon-ditie:before {
+    content: "\e608";
+    font-size: 20px;
+    vertical-align: -20%
+}
+
+.icon-cube:before {
+    content: "\e7b2";
+    font-size: 25px;
+    color: aqua;
+    vertical-align: -15%
+}
+
+.icon-up:after {
+    content: "\e645";
+    color: rgb(238, 11, 11);
+    font-weight: bolder;
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+.icon-down:after {
+    content: "\e646";
+    color: rgb(11, 238, 87);
+    font-weight: bolder;
+    font-size: 12px;
+    margin-left: 5px;
+}

@@ -1,0 +1,11 @@
+html,
+body,
+#app {
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /* overflow: hidden; */
+    margin: 0 auto;
+    background-image: url('./pic/bg.jpg');
+    background-size: cover;
+}

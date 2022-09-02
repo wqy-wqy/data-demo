@@ -1,0 +1,19 @@
+{
+    "name": "dataDemo",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "dependencies": {
+        "china.js": "^4.2.0",
+        "echarts": "4.9",
+        "pinia": "^2.0.14",
+        "vue": "^3.0.4"
+    },
+    "devDependencies": {
+        "@types/echarts": "^4.9.15",
+        "@vue/compiler-sfc": "^3.0.4",
+        "vite": "^1.0.0-rc.13"
+    }
+}
